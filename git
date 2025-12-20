@@ -1,0 +1,7 @@
+# Switch to Main: git checkout main
+
+Download latest Main: git pull origin main
+
+Merge the feature branch: git merge feature-test
+
+Push the result to GitHub: git push origin main
